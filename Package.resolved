@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "f96b619bcb2383b43d898402283924b80e2c4bae",
+          "version": "5.4.3"
+        }
+      },
+      {
+        "package": "MarvelDomainLayer",
+        "repositoryURL": "https://github.com/erkutbas/MarvelDomainLayer.git",
+        "state": {
+          "branch": null,
+          "revision": "49cf201ee9e12148ac25bf2af8a43bd2d4b3af16",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "NetworkEntityLayer",
+        "repositoryURL": "https://github.com/erkutbas/NetworkEntityLayer.git",
+        "state": {
+          "branch": null,
+          "revision": "c8474a70dcda5ffb0f52c9ba300351c5a0b4bff5",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "NetworkLayer",
+        "repositoryURL": "https://github.com/erkutbas/NetworkLayer.git",
+        "state": {
+          "branch": null,
+          "revision": "31d9a4fdad798009619857d0202b6659bca31957",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "7c17a6ccca06b5c107cfa4284e634562ddaf5951",
+          "version": "6.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
