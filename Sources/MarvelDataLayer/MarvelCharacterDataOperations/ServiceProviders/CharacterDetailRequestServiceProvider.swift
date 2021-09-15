@@ -15,7 +15,7 @@ final public class CharacterDetailRequestServiceProvider: ApiServiceProvider<Cha
         guard let characterId = request.characterId else {
             fatalError("Please provide a valid character id")
         }
-        super.init(baseUrl: BaseUrls.prod.description, method: .get, path: Paths.character(characterId).description, data: request)
+        super.init(baseUrl: BaseUrls.prod.description, method: .get, path: Paths.character(characterId).description)
     }
     
 }
