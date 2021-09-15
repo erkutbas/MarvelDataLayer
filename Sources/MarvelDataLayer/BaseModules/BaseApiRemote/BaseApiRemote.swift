@@ -13,7 +13,7 @@ public class BaseApiRemote<T> {
     private(set) var apiManager: ApiManagerProtocol
     private(set) var serviceProvider: T
     
-    init(apiManager: ApiManagerProtocol, serviceProvider: T) {
+    public init(apiManager: ApiManagerProtocol, serviceProvider: T) {
         self.apiManager = apiManager
         self.serviceProvider = serviceProvider
     }
